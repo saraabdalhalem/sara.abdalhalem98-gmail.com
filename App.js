@@ -7,7 +7,7 @@
  */
 import React, { Component } from 'react';
 //import react in our code. 
- 
+
 //For react-navigation 3.0+
 //import { createAppContainer, createStackNavigator } from 'react-navigation';
 //For react-navigation 4.0+
